@@ -1,1 +1,2 @@
-# MVVM
+# MVVMSample
+Easy MVVM sample
